@@ -136,7 +136,7 @@ button {
 
 /* ✨ judul */
 .title {
-    font-size: 24px;
+    font-size: 23px;
     font-weight: 600;
     background: linear-gradient(90deg, #ff9ecf, #ffffff, #ff6ec7);
     background-clip: text; 
